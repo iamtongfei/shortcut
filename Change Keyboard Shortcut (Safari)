@@ -1,0 +1,16 @@
+The default keyboard short cut can be found by:
+-> Help "close tab"
+-> direct to File "Close Tab" cmd + W
+HOWEVER, I set cms + W is shortcut for screen shots
+So, instead, we can redefine the close tab shortcut in our mac system
+-> Keyboard
+-> Shortcuts
+-> Move to the application
+-> select app "Safri" 
+-> enter the menu name "Close Tab" (exactly same name Cap)
+-> cmd + D
+
+The other shortcut for open new tab is cmd + T
+
+Ref link: https://medium.com/@standingdreams/changing-safari-keyboard-shortcut-to-change-tabs-or-any-mac-application-e06730faead2
+
